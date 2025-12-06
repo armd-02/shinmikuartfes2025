@@ -8,7 +8,8 @@
                 "nwr[\"tourism\"]",
                 "nwr[\"office\"]",
                 "node[\"railway\"=\"station\"]",
-                "nwr[\"leisure\"]"
+                "nwr[\"leisure\"]",
+                "way[\"highway\"=\"pedestrian\"]"
             ],
             "tags": [
                 "shop",
@@ -21,7 +22,8 @@
                 "amenity",
                 "tourism",
                 "railway",
-                "leisure"
+                "leisure",
+                "highway"
             ],
             "expression": {
                 "poiView": true, // true時はアイコン表示
